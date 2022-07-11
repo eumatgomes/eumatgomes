@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matheus Gomes</h1>
+<h1 align="center">Hey! I'm Matheus Gomes</h1>
 <h3 align="center">A student dev from Brazil</h3>
 
 - 🌱 I’m currently learning **JavaScript**
