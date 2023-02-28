@@ -1,7 +1,7 @@
-<h1 align="center">Bem-vindo! Eu me chamo Matheus Gomes</h1>
-<h3 align="center">Sou um desenvolvedor e atuo na área desde 2022</h3>
+<h1 align="center">Hello! Eu me chamo Matheus Gomes</h1>
+<h3 align="center">Sou desenvolvedor e atuo na área desde 2022</h3>
 
-- 🌱 Atualmente estudo: JavaScript, HTML, CSS, Node.JS, Java e React
+-  Atualmente estudo: JavaScript, HTML, CSS, Node.JS, Java e React
 
 
 <h3 align="left">Como me encontrar:</h3>
