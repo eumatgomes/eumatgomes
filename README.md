@@ -1,14 +1,73 @@
-<h1 align="center">Hello! Eu me chamo Matheus Gomes</h1>
-<h3 align="center">Analista de Infraestrutura</h3>
+# Olá, eu sou Matheus Gomes 👋
 
--  Atualmente estudo: JavaScript, HTML, CSS, Node.JS, Java, React e PowerShell.
+🔐 **Segurança da Informação | Infraestrutura | Cloud | Automação**
 
+Profissional de **Tecnologia da Informação com foco em Segurança da Informação**, atuando na proteção de ambientes corporativos, gestão de identidades e acessos, segurança de endpoints, infraestrutura e implementação de controles de segurança.
 
-<h3 align="left">Como me encontrar:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/matheus-gomes-27457849" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" alt="https://www.linkedin.com/in/matheus-gomes-27457849" height="30" width="40" /></a>
-</p>
+Tenho interesse especial em transformar **segurança em processos, controles e soluções práticas**, buscando reduzir riscos e aumentar a maturidade de segurança das organizações.
 
-<h3 align="left">Linguagens e ferramentas que possuo conhecimento:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🔐 Segurança da Informação
 
+Minha atuação e meus estudos estão concentrados principalmente em:
+
+* 🛡️ Segurança de endpoints e dispositivos
+* 🔑 Gestão de identidade e controle de acesso
+* ☁️ Segurança em ambientes Cloud
+* 🔒 Proteção de dados e informações
+* 🚨 Gestão e resposta a incidentes
+* 📋 Gestão de riscos e controles de segurança
+* 🏢 Segurança de ambientes corporativos
+* 🔍 Monitoramento e análise de eventos
+* 📜 Políticas, processos e governança de segurança
+* 🏛️ LGPD e privacidade
+* 📑 ISO/IEC 27001 e Sistemas de Gestão de Segurança da Informação
+* ⚙️ Automação de tarefas e controles de segurança
+
+## 🛠️ Tecnologias
+
+### Microsoft & Cloud
+
+* Microsoft 365
+* Microsoft Entra ID
+* Microsoft Intune
+* Microsoft Defender
+* Azure
+* Exchange Online
+
+### Infraestrutura & Segurança
+
+* Windows Server
+* Active Directory
+* Redes e VPN
+* Firewalls
+* Endpoint Security
+* Backup & Disaster Recovery
+* Monitoramento
+
+### Automação & Desenvolvimento
+
+* PowerShell
+* C#
+* .NET
+* HTML
+* CSS
+* JavaScript
+* Git & GitHub
+
+## 🚀 Projetos
+
+### 🔐 SenhaLab
+
+**Criador e desenvolvedor do SenhaLab**, uma plataforma voltada para segurança digital, com ferramentas para **geração e gerenciamento de senhas**.
+
+O projeto nasceu com o objetivo de transformar boas práticas de segurança em ferramentas simples e acessíveis, permitindo que usuários tenham mais controle sobre suas credenciais e segurança digital.
+
+🌐 **https://senhalab.com.br**
+
+## 🎯 O que estou buscando
+
+Continuar evoluindo em **Cybersecurity, Cloud Security, Identity & Access Management, Security Operations e Governança de Segurança da Informação**, unindo conhecimento técnico de infraestrutura com segurança e automação.
+
+> 🔐 **Segurança da Informação não é apenas proteger sistemas. É reduzir riscos, proteger informações e tornar os ambientes mais resilientes.**
+
+📫 **LinkedIn:** https://www.linkedin.com/in/matheus-gomes-27457849/
